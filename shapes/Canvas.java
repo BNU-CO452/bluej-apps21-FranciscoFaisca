@@ -153,6 +153,7 @@ public class Canvas
         } 
         catch (Exception e)
         {
+            
             // ignoring exception at the moment
         }
     }
